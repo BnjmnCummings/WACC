@@ -2,6 +2,6 @@
 .metals/
 .scala-build/
 .vscode/
-*testSettings*
 .DS_Store
 assembly/
+testSettings.scala
